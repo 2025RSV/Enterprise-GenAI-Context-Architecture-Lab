@@ -1,0 +1,36 @@
+strategic-prompt-engineering/
+│
+├── README.md
+│
+├── prompt-systems/
+│   ├── executive-decision-support/
+│   │   ├── v0_naive.md
+│   │   ├── v1_structured.md
+│   │   ├── v2_guardrails.md
+│   │   ├── v3_enterprise.md
+│   │   └── test_cases.md
+│   │
+│   ├── risk-sentinel/
+│   │   ├── prompt.md
+│   │   └── failure_modes.md
+│
+├── governance/
+│   ├── prompt_risk_assessment.md
+│   ├── prompt_review_checklist.md
+│   ├── audit_log_template.md
+│   ├── change_management.md
+│   └── approval_summary.md
+│
+├── experiments/
+│   ├── prompt_comparison.ipynb
+│   └── results.md
+│
+├── decision-logs/
+│   ├── DL-001.md
+│   └── decision_log_template.md
+│
+├── frameworks/
+│   └── enterprise_prompt_governance_framework.md
+│
+└── syntheses/
+    └── prompt_governance_is_delivery.md
